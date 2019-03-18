@@ -1,0 +1,6 @@
+framework module AriaOsXObjC {
+  umbrella header "AriaOsXObjC.h"
+
+  export *
+  module * { export * }
+}
